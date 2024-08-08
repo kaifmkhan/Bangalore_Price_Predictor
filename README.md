@@ -1,5 +1,5 @@
 
-# Bangalore House Price Predictor
+# Property Value Forecasting Hub
 
 This is basically a real estate price prediction website build using Machine Learning on a python flask server that uses the saved model to serve http requests.
 
